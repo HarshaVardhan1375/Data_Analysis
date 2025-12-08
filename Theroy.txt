@@ -1,0 +1,47 @@
+Descriptive statistics-methods of organizing,summarizing,and presenting data in an informative  way
+
+Inferential statistics-The methods used to determine something about a population
+
+
+ 					BASIC TERMS
+ 				    -------------------
+
+population-A collection , or set , of individuals or objects or events whose properties are to be analyzed.
+
+Sample-A subset of the population .
+
+variable - A characteristic about each individual element of a population .
+
+Data - The value of the variable associated with one element of a population or sample. This value may be a number ,a word , or a symbol
+
+parameter - A numerical value summarizing all the data of an entire population
+
+statistic - A numerical value summarizing the sample data .
+
+
+ 				DESCRIPTIVE STATISTICS
+ 			     ----------------------------
+
+Summarizes Data : It's all about taking raw data and making it easier to understand
+
+Describes features : Focuses on the main Characteristics of a dataset.
+
+
+
+ 
+
+ 		    DATA
+
+
+
+ 		Categorical   Numerical
+ 
+ 				!	 !	!	!
+ 				!	 !	!	!
+ 				!	 !	!	!
+ 				!	 !	!	!
+ 				!	 !	!	!
+ 		Ordinal<--------!	 !	!	!---------->Continuous
+ 					 !	!
+ 					 !	!
+ 		Nominal<-----------------!	!------------------->Discrete
